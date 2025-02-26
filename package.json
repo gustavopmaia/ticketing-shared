@@ -13,5 +13,8 @@
   },
   "author": "Gustavo Maia",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-nats-streaming": "^0.3.2"
+  }
 }
